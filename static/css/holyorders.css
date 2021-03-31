@@ -14,10 +14,6 @@ header {
   margin: 0px;
   text-align: center;
 }
-.label {
-     display: inline-block;
-     width: 200px; // or whatever
-}
 
 .mainheader {
   padding: 30px;
@@ -29,27 +25,11 @@ header {
   color: darkgoldenrod;
   padding: 10px;
 }
-
-.info {
-  color: darkgoldenrod;
-}
-
 body{
   background-color: #ECDDAC;
 }
 
-.SacramentName {
-  padding: 30px;
-  font-family: 'Roboto', serif;
-  color: #6B2C2B;
-}
-
-.link {
-  color: black;
+.Mainbodytext{
+  margin-left: 30px;
   font-family: "Asap", sans-serif;
-}
-
-#allSacramentsImage{
-  margin-left: 500px;
-  transform: translateY(-400px);
 }
