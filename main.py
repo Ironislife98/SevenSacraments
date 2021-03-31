@@ -34,4 +34,4 @@ def holyorders():
 def marriage():
     return render_template("marriage.html")
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
